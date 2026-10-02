@@ -1,4 +1,4 @@
-🛒 Sistema de Vendas — Jornada Python
+🛒 # Sistema de Vendas — Jornada Python
 Sistema de vendas desenvolvido durante a Jornada Python, com o objetivo de praticar conceitos de programação, organização de projetos e desenvolvimento de aplicações em Python.
 
 📌 Sobre o projeto
